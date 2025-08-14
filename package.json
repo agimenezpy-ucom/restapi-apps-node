@@ -1,6 +1,6 @@
 {
   "name": "node_backend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Backend para pruebas de carga E3",
   "main": "app.js",
   "scripts": {
