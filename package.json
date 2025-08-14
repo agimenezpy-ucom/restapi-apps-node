@@ -1,0 +1,15 @@
+{
+  "name": "node_backend",
+  "version": "1.0.0",
+  "description": "Backend para pruebas de carga E3",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Edgar y Alberto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  }
+}
