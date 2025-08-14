@@ -19,7 +19,7 @@ app.use('/marcas', require('./routes/marcas'));
 app.use('/productos', require('./routes/productos'));
 
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8000;
 //app.listen(PORT, () => console.log(`Servidor en ejecución en el puerto ${PORT}`));
 app.listen(PORT, '0.0.0.0', () => {
     console.log(`Servidor en ejecución en el puerto ${PORT}`);
